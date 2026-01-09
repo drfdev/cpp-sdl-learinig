@@ -1,1 +1,1 @@
-# cpp-sdl-learinig
+# C++ SDL learinig project
