@@ -2,6 +2,7 @@
 TODO list:
 
 :pushpin: Pong 
+:pushpin: 15 puzzle (Пятнашки)
 :pushpin: Snake (змейка)
 :pushpin: Breakout (Арканоид)
 :pushpin: Space Invaders
