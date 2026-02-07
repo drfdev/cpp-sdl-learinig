@@ -1,0 +1,3 @@
+[submodule "p001-pong/SDL"]
+	path = p001-pong/lib/SDL
+	url = git@github.com:libsdl-org/SDL.git
